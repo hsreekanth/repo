@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 56C0-1799
+
+ Directory of C:\Users\sreekanth\Desktop\myapp
+
+06-09-2020  15:15    <DIR>          .
+06-09-2020  15:15    <DIR>          ..
+06-09-2020  15:15                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  72,992,247,808 bytes free
